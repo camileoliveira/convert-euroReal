@@ -5,4 +5,4 @@ Projeto simples de conversão de moeda feito com **HTML**, **CSS** e **JavaScrip
 
 ## 🖼️ Preview do projeto
 
-![Preview do Conversor](./menu-projeto/assets%20/img/print-home.png)
+![Preview do Conversor](./menu-projeto/assets%20/img/print_home.png)
